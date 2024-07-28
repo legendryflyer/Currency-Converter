@@ -141,3 +141,7 @@ body {
   letter-spacing: 0.5px;
   background: rgba(255, 255, 255, 0.1);
 }
+.converter-form .submit-button .loading {
+  opacity: 0.8;
+  pointer-events: none;
+}
